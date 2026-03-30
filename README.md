@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Rupali Priya 
 
-<!--
-**rupalipriya78/rupalipriya78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-About Me
+- Name: Rupali Priya
+- Branch: Aerospace
+- Year: 1st Year (2025-2029) 
 
-Here are some ideas to get you started:
+-My Learning Goals
+I aim to build strong knowledge in the aerospace field, including aerodynamics, propulsion systems, and flight mechanics. I want to develop skills in simulation, design, and analysis of aircraft and space systems, and contribute to advancements in aviation and space technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Skills (Learning)
+- Python Basics
+- Basics of Aerodynamics
+- Engineering physics and engineering chemistry
+- Flight Mechanics (Fundamentals)
+- Git & GitHub
+- Problem Solving and Analytical Thinking
+
+-What I Hope to Learn
+- Advanced concepts in aerodynamics and fluid mechanics  
+- Aircraft and spacecraft design fundamentals  
+- Use of simulation tools like MATLAB and CAD software  
+- Basics of propulsion systems and space technology 
+- Problem-solving and real-world engineering applications
